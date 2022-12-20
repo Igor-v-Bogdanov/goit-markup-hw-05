@@ -119,6 +119,10 @@ img {
   background-color: var(--pb-color);
 }
 
+.header-link.current{
+  color: var(--pb-color);
+}
+
 .header-links .header-link:hover,
 .header-links .header-link:focus {
   color: var(--pb-color);
